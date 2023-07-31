@@ -4,7 +4,7 @@
 // Input :- n=153
 // Output:-true
 // Logic - 153 is an Armstrong number because 1^3 + 5^3 + 3^3 = 1 +125 + 27 = 153 which is equal to the original number )
-
+// 1634 = 1^4+6^4 + 3^4+ 4^4
 const a = 370;
 x = 370;
 let sum = 0;
