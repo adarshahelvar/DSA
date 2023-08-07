@@ -1,5 +1,5 @@
 /*
-    You have seen ols keypad phones which have buttons 1-9 and for each buttons we will be assigned with letters.
+    You have seen old keypad phones which have buttons 1-9 and for each buttons we will be assigned with letters.
     so this question is same as that when user type numcer you need to give possible outcome of that array.
 */
 
