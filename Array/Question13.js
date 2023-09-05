@@ -1,5 +1,6 @@
 // Given an array and rotation, Shift the elements to the right to that rotation
 // Input:- [1, 2, 3, 4, 5];
+// rotation: 2
 // Output:- [3, 4, 5, 1, 2]
 
 let arr = [1, 2, 3, 4, 5];

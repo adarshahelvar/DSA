@@ -1,21 +1,12 @@
 // Write a program to store first n prime numbers in an array . After storing return the array.﻿
 
-
-
 // Input:-
-
 // n=5
-
 // Output:- Return the output in the form of an array.
-
 // 2
-
 // 3
-
 // 5
-
 // 7
-
 // 11
 
 let n = 5;
