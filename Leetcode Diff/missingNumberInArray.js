@@ -14,7 +14,7 @@ Explanation: 4 is missing in series, One possible solution is to change the last
 The resulting array is [1,2,3,5,4], which is continuous.
 */
 
-let nums = [1, 2, 3,4];
+let nums = [1, 2,4];
 let fun = () => {
   // let sortedElms = nums.sort();
   // If the numsers given is more than 10 like 10,11,12,15 etc then we can sort like this 
